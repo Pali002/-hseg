@@ -1,3 +1,3 @@
 # Tama
 
-Verzió: 0.0.1
+Verzió: 0.9.0
